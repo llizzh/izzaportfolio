@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Sales Admin",
+    "organisation": "Data-Speaks (M) Sdn. Bhd.",
+    "startDate": "Marc, 2024",
+    "endDate": "Present",
+    "experiences": [
+      "Helped create invoice or purchase order",
+      "Prepare and Submit TNB Tender"
+    ],
+    "imageSrc": "history/dssb.png"
+  },
+  {
+    "role": "IT, Business Analyst",
+    "organisation": "Data-Speaks (M) Sdn. Bhd.",
+    "startDate": "Oct, 2023",
+    "endDate": "Feb, 2024",
+    "experiences": ["Gathering Requirements", "Identified issue and challenges"],
+    "imageSrc": "history/dssb.png"
+  },
+  {
+    "role": "eFYP Management",
+    "organisation": "UniKL MIIT",
+    "startDate": "Jan, 2023",
+    "endDate": "Sept, 2023",
+    "experiences": ["Create User Friendly Website", "Designed the dashboard"],
+    "imageSrc": "history/uni.png"
+  } 
+]

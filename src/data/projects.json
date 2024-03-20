@@ -1,0 +1,26 @@
+[
+  {
+    "title": "eFYP Management Project",
+    "imageSrc": "projects/fyp.png",
+    "description": "This is a project made for provided valuable assistance to BSE staff's during project evaluation.",
+    "skills": ["Javascript", "HTML", "CSS"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Sushiman Commerce Project",
+    "imageSrc": "projects/sushi.png",
+    "description": "This is a project made to learn and create a landing page for sushi commerce website.",
+    "skills": ["HTML", "CSS", "VS Code"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "React js Ecommerce Projects",
+    "imageSrc": "projects/reactecommerce.png",
+    "description": "This is a project for React Responsive Ecommerce Website, React Begineer Projects ",
+    "skills": ["React", "CSS", "Reactjs"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
